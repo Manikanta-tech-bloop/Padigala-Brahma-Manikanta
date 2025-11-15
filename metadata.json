@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Mani Ai Powered Chatbot",
+  "description": "Mani Ai is an interactive chatbot application that allows users to ask questions and receive responses from the Gemini AI model 'gemini-2.5-flash'.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
